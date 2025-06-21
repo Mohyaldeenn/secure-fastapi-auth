@@ -1,0 +1,15 @@
+# Virtual Environment
+env/
+__pycache__/
+.vscode/
+.idea/
+Lib/
+Scripts/
+Include/
+
+# Environment files
+.env
+
+# Database files
+*.db
+*.sqlite3
